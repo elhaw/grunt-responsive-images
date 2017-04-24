@@ -13,17 +13,24 @@ I've left some boilerplate below for you.
 */
 
 body {
-
+    width: 100%;
 }
 
 article {
-
+	width: 50em;
+	margin: auto;
 }
 
-h1 {
-
+h1,h2 {
+text-align: center;
 }
 
 img {
+	max-width: 100%;
 
+}
+p {
+	    max-width: 75%;
+    text-align: center;
+    margin-left: 40px;
 }
