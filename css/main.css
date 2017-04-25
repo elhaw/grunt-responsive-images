@@ -34,3 +34,9 @@ p {
     text-align: center;
     margin-left: 40px;
 }
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+
+}
